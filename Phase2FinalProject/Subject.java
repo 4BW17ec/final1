@@ -1,4 +1,4 @@
-package com.kartik.training;;
+package com.pooja.training;;
 public class Subject {	
 	private int id;
 	private String name;
