@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.pooja.training;
 public class Student {	
 	private int id;
 	private String fname;
