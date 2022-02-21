@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.pooja.training;
 import java.io.IOException;
 import java.util.List;
 import javax.annotation.Resource;
@@ -17,7 +17,7 @@ import javax.sql.DataSource;
 public class AdminControllerServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private DbRetrieve dbRetrieve;
-	@Resource(name = "new_Abhishek")
+	@Resource(name = "new_Pooja")
 	private DataSource datasource;
 	@Override
 	public void init() throws ServletException {
